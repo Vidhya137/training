@@ -7,7 +7,7 @@ package cb.training;
 
 /**
  *
- * @author cb-vidhya
+ * @author ClausssssssBREOO
  */
 import java.util.Scanner;
 public class D2_Program1 {
